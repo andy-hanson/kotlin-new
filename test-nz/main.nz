@@ -1,0 +1,2 @@
+fn main Void world World
+	world.print "HELLO!"
